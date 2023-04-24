@@ -1,5 +1,4 @@
-# Crud-Application
-# CRUD_Application_Node
+# CRUD_Application
 In this project, we are going to create node CRUD application with express and mongodb.
 In this project, we are going to create node CRUD application with express and MongoDB.
 
